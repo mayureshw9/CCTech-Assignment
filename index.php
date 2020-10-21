@@ -87,7 +87,7 @@
                                         echo '
                                             <div class="col-lg-4 col-md-4 col-sm col-xs inputContainer2">
                                                 <div class="card text-center ">
-                                                    <img class="img-fluid"  src="'.$image.'"  id="'.$filename.'"/>
+                                                    <img class="img-fluid preview-image"  src="'.$image.'"  id="'.$filename.'"/>
                                                     <h5 class="card-title">'.$filename.'</h5>
                                                 </div>
                                             </div>
